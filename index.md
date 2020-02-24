@@ -1,4 +1,4 @@
-## Welcome to Igor's personal page
+## Igor Dzichkovskii
 
 ![myPhoto](https://scontent-lis1-1.xx.fbcdn.net/v/t1.0-9/74214435_1396791150501720_2187535626784473088_n.jpg?_nc_cat=105&_nc_ohc=fcwL-O8X3-MAX-TN45D&_nc_ht=scontent-lis1-1.xx&oh=cd17debc9c4542f539b4c4f53db99f9f&oe=5EFFADCB)
 
