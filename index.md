@@ -15,5 +15,6 @@ Hello there! My name is Igor Dzichkovskii. I'm Android programmer (begginer) and
 ### Contact
 
 If you want to contact me please write your message to:
-[Mail](mailto:igordzich@gmail.com) or WhatsApp/Telegram/Viber (+34603117919). 
-Also, you may call me using the same number as well.
+- [Mail:](mailto:igordzich@gmail.com) Igordzich@gmail.com
+- WhatsApp/Telegram/Viber: +34603117919. 
+- Also, you may call me using the same number as well.
