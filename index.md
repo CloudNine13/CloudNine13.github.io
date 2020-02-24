@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Igor's personal page
 
-You can use the [editor on GitHub](https://github.com/CloudNine13/CloudNine13.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![myPhoto](https://scontent-lis1-1.xx.fbcdn.net/v/t1.0-9/74214435_1396791150501720_2187535626784473088_n.jpg?_nc_cat=105&_nc_ohc=fcwL-O8X3-MAX-TN45D&_nc_ht=scontent-lis1-1.xx&oh=cd17debc9c4542f539b4c4f53db99f9f&oe=5EFFADCB)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello there! My name is Igor Dzichkovskii. I'm Android programmer (begginer) and if you read this, you came here using one of my social network links. I'm from Russia but right now I live in Valencia, Spain. My routine is working for the [Vitcord](https://vitcord.com/es/) doing hard work in studying Kotlin and Android as well. I'm doing master degree in Computer and Network Engineering in the Universidad Politécnica de Valencia diving deep into the (under)world of informatics (¬‿¬). 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Links
 
-```markdown
-Syntax highlighted code block
+- [GitHub Repositories](https://github.com/CloudNine13?tab=repositories "Here is my repositories page")
+- [Facebook](https://www.facebook.com/profile.php?id=100005125450880 "Here is my FB page")
+- [LinkedIn](https://www.linkedin.com/in/igordzichkovskii/ "Here is my LinkedIn page")
+- [Twitter](https://twitter.com/Cloud_Nine13 "What's that? That's my Twitter page!")
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CloudNine13/CloudNine13.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to contact me please write your message to:
+[Mail](mailto:igordzich@gmail.com) or WhatsApp/Telegram/Viber (+34603117919). 
+Also, you may call me using the same number as well.
