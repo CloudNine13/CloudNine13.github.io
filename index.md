@@ -1,9 +1,9 @@
 ## Igor Dzichkovskii
+<img src="https://user-images.githubusercontent.com/49725913/124142075-32597e80-da8a-11eb-973d-439b42a77c39.png" align="right">
 
 <img src="https://user-images.githubusercontent.com/49725913/124145644-4357bf00-da8d-11eb-9410-6ffc9bb38a2e.png" width="25" height="25"> Date of birth: 16/03/1996
 
 <img src="https://user-images.githubusercontent.com/49725913/124145804-6aae8c00-da8d-11eb-9327-3255ed139398.png" width="25" height="25"> Carrer de Yecla, 31, p. 5, 46021 Valencia, España
-<img src="https://user-images.githubusercontent.com/49725913/124142075-32597e80-da8a-11eb-973d-439b42a77c39.png" align="right">
 
 <img src="https://user-images.githubusercontent.com/49725913/124144252-16ef7300-da8c-11eb-8199-ae8928d58de2.png" width="25" height="25"> [](mailto:igordzich@gmail.com) Igordzich@gmail.com
 
