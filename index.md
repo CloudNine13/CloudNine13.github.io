@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/49725913/124145804-6aae8c00-da8d-11eb-9327-3255ed139398.png" width="25" height="25"> Carrer de Yecla, 31, p. 5, 46021 Valencia, España
 
-<img src="https://user-images.githubusercontent.com/49725913/124144252-16ef7300-da8c-11eb-8199-ae8928d58de2.png" width="25" height="25"> [](mailto:igordzich@gmail.com) Igordzich@gmail.com
+<img src="https://user-images.githubusercontent.com/49725913/124144252-16ef7300-da8c-11eb-8199-ae8928d58de2.png" width="25" height="25"> [Igordzich@gmail.com](mailto:igordzich@gmail.com) 
 
 <img src="https://user-images.githubusercontent.com/49725913/124145462-1c00f200-da8d-11eb-9a91-c522f5682e95.png" width="25" height="25"> +34603117919
 
