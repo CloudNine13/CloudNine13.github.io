@@ -23,3 +23,8 @@ Hello there! My name is Igor Dzichkovskii. I'm some kind of Full Stack programme
 If you want to contact me please write your message to:
 - WhatsApp/Telegram/Viber: +34603117919. 
 - Skype: ninecloud13
+
+## My Curriculum Vitae
+
+In continuation you can find my CV in spanish.
+<embed src="https://CloudNine13.github.io/IgorCV.pdf" type="application/pdf" width="600px" height="500px" />
