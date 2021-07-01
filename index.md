@@ -29,4 +29,8 @@ If you want to contact me please write your message to:
 
 In continuation you can find my CV in spanish by clicking on the image:
 
+<embed src="https://cloudnine13.github.io/IgorCV.pdf" width="700px" height="600px" />
+
+If you have problems viewing this PDF file, please click on the image:
+
 <a href="https://cloudnine13.github.io/IgorCV.pdf"><img src="https://user-images.githubusercontent.com/49725913/124151667-16a6a600-da93-11eb-9473-ae5d493bc0ad.png"></a>
