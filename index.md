@@ -27,7 +27,7 @@ If you want to contact me please write your message to:
 
 ## My Curriculum Vitae
 
-In continuation you can find my CV in spanish by clicking on the image:
+In continuation you can find my CV in spanish:
 
 <embed src="https://cloudnine13.github.io/IgorCV.pdf" width="700px" height="600px" />
 
