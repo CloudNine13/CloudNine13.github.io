@@ -33,4 +33,4 @@ In continuation you can find my CV in Spanish:
 
 If you have problems viewing this PDF file, please click on the image:
 
-<a href="https://cloudnine13.github.io/IgorCV.pdf"><img src="https://www.svgrepo.com/show/3323/file.svg"></a>
+<a href="https://cloudnine13.github.io/IgorCV.pdf"><img src="https://www.svgrepo.com/show/3323/file.svg" width="25" height="25"></a>
