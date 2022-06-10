@@ -1,12 +1,12 @@
-<img src="https://user-images.githubusercontent.com/49725913/124142075-32597e80-da8a-11eb-973d-439b42a77c39.png" align="right">
+<img src="https://scontent.fvlc2-1.fna.fbcdn.net/v/t39.30808-6/287307602_2178291042351723_6710261018796036284_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=r0T_JMk261EAX-TSn4J&_nc_ht=scontent.fvlc2-1.fna&oh=00_AT9RW17wnqdXGhVVoEXY7QKLz2WAL3d6ZEXVhKI0mJ1nJQ&oe=62A85B81" align="right">
 
-<img src="https://user-images.githubusercontent.com/49725913/124145644-4357bf00-da8d-11eb-9410-6ffc9bb38a2e.png" width="25" height="25"> Date of birth: 16/03/1996
+<img src="https://www.svgrepo.com/show/7045/birthday-cake.svg" width="25" height="25"> Date of birth: 16/03/1996
 
-<img src="https://user-images.githubusercontent.com/49725913/124145804-6aae8c00-da8d-11eb-9327-3255ed139398.png" width="25" height="25"> Carrer de Yecla, 31, p. 5, 46021 Valencia, España
+<img src="https://www.svgrepo.com/show/90329/direction.svg" width="25" height="25"> Carrer de Yecla, 31, p. 5, 46021 Valencia, España
 
-<img src="https://user-images.githubusercontent.com/49725913/124144252-16ef7300-da8c-11eb-8199-ae8928d58de2.png" width="25" height="25"> [Igordzich@gmail.com](mailto:igordzich@gmail.com) 
+<img src="https://www.svgrepo.com/show/17588/mail.svg" width="25" height="25"> [Igordzich@gmail.com](mailto:igordzich@gmail.com) 
 
-<img src="https://user-images.githubusercontent.com/49725913/124145462-1c00f200-da8d-11eb-9a91-c522f5682e95.png" width="25" height="25"> +34603117919
+<img src="https://www.svgrepo.com/show/309853/phone.svg" width="25" height="25"> +34603117919
 
 
 Hello there! My name is Igor Dzichkovskii. I'm some kind of Full Stack programmer with almost 3 years of professional experience. That's because during my professional experience, I've worked with a different technologies such as C, Python, Kotlin, Java, Swift, Ruby (on Rails), JavaScript, CSS, Bootstrap, HTML, RPG Maker MV (JS scripts), Neo4j, MongoDB, SQLyte, PostgreSQL. I'm from Russia but right now I live in Valencia, Spain. My routine is working for the [Camillion](https://camillion.app) doing hard work, resolving programming problems, studying new languages, technologies y etc. I have Master degree in Computer and Network Engineering in the Universidad Politécnica de Valencia. My main objective is to master several programming languages, deepen my knowledge of IT and carry out the projects and ideas I have in mind. I am currently looking for the full-time position or internship in Valencia (or surroundings).
