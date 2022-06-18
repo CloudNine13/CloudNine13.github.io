@@ -1,4 +1,4 @@
-<img src="https://ibb.co/jhdjgnC" width="120" height="auto" align="right">
+<img src="https://i.ibb.co/v1bMZ0N/igor-1.png" width="120" height="auto" align="right">
 
 <img src="https://www.svgrepo.com/show/7045/birthday-cake.svg" width="25" height="25"> Date of birth: 16/03/1996
 
